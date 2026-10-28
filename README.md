@@ -56,7 +56,8 @@ void main()
 ```
 ## OUTPUT:
 
-<img width="1917" height="1072" alt="image" src="https://github.com/user-attachments/assets/4288d9ee-883e-4d8b-8338-baf5e525f1db](https://github.com/AaronMariyanA/EX.-NO-1-IMPLEMENTATION-OF-CAESAR-CIPHER/blob/main/screenshot%2Cpdf.png" />
+<img width="621" height="274" alt="Screenshot 2026-10-28 at 1 57 44 PM" src="https://github.com/user-attachments/assets/c8196aa3-1361-4a2a-bc20-b6387485f2ac" />
+
 
 
 ## RESULT :
