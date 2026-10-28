@@ -56,7 +56,7 @@ void main()
 ```
 ## OUTPUT:
 
-<img width="1917" height="1072" alt="image" src="https://github.com/user-attachments/assets/4288d9ee-883e-4d8b-8338-baf5e525f1db" />
+<img width="1917" height="1072" alt="image" src="[https://github.com/user-attachments/assets/4288d9ee-883e-4d8b-8338-baf5e525f1db](https://github.com/AaronMariyanA/EX.-NO-1-IMPLEMENTATION-OF-CAESAR-CIPHER/blob/main/screenshot%2Cpdf.png)" />
 
 
 ## RESULT :
